@@ -1,0 +1,6 @@
+
+const security_access = {
+	jwt_access_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlfcGhyYXNlIjp7IndvcmQiOiJ2aXJ0dWRlIiwibWVhbmluZyI6InF1YWxpZGFkZSBjb25zdGFudGUgZGUgcXVlcmVyIG8gYmVtIiwiYXBwbGljYXRpb25fbmFtZSI6InJ1IiwiYXBwbGljYXRpb25fZGV2IjoibW9vbnMyIn0sImlhdCI6MTU4MTM3NDg0NX0.XL3vXjG4TEKT3BMJt5-DZqs2N3EBeJY12DMHzg59K_o"
+};
+
+export default security_access;
