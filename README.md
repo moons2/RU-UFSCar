@@ -20,7 +20,7 @@
 
 <img alt="RU UFSCar App usage gif" align="center" src="/assets/imgs_readme/Screenrecorder_app_usage.gif" height="600px"/>
 
-<h1>Ferramenstas usadas no desenvolvimento</h1>
+<h1>Ferramentas usadas no desenvolvimento</h1>
 <H3>No backend foram usados:</H3>
 
 * 	**axios**
@@ -56,7 +56,7 @@ além dos modulos que permitiram trabalhar com a navegação entre telas como:
 
 <p>Por último, há diversas coisas no app que poderiam ser feitas de forma melhor, mas que eu fiz com o conhecimento que eu tinha até o momento. Com o aperfeiçoamento espero melhorar e contruir aplicações mais </p>
 
-## :memo: Licençna
+## :memo: Licença
 
 Copyright (c) 2020 Luan Moraes, O Uso deste software é atribuido sob os termos e condições da licença do MIT.
 
