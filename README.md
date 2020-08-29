@@ -23,25 +23,24 @@
 <h1>Ferramenstas usadas no desenvolvimento</h1>
 <H3>No backend foram usados:</H3>
 
-*	**axios**
-*	**jwt token**
-*	**Nodejs**
+* 	**axios**
+* 	**jwt token**
+* 	**Nodejs**
 
 <H3>No App foram usados:</H3>
-<ul>
-	<li><bold>axios</bold> para trabalhar com as requições</li>
-	<li><bold>lottie-react-native</bold> para fazer a animação do carregamento enquanto o feedback é registrado</li>
-	<li><bold>polished</bold> para escurecer a cor da statusbar</li>
-	<li><bold>react-native-vector-icons</bold> para os ícones da aplicação</li>
-	<li><bold>styled-components</bold> para a criação do modo noturno</li>
-	<li><bold>@react-native-community/async-storage</bold> para a tarefa de armazenamento de dados permanentes no dispositivo</li>
-	<li><bold>@react-native-firebase/analytics e @react-native-firebase/app</bold> para utilização dos serviços do Firebase e monitoramento do comportamento do usuário no app com analytics</li>
-	além dos modulos que permitiram trabalhar com a navegação entre telas como:
-	<li><bold>react-navigation</bold></li>
-	<li><bold>react-navigation-drawer</bold></li>
-	<li><bold>react-navigation-stack</bold></li>
-	<li><bold>react-navigation-tabs</bold></li>
-</ul>
+
+* 	**axios** para trabalhar com as requições
+* 	**lottie-react-native** para fazer a animação do carregamento enquanto o feedback é registrado
+* 	**polished** para escurecer a cor da statusbar
+* 	**react-native-vector-icons** para os ícones da aplicação
+* 	**styled-components** para a criação do modo noturno
+* 	**@react-native-community/async-storage** para a tarefa de armazenamento de dados permanentes no dispositivo
+* 	**@react-native-firebase/analytics** e **@react-native-firebase/app** para utilização dos serviços do Firebase e monitoramento do comportamento do usuário no app com analytics
+além dos modulos que permitiram trabalhar com a navegação entre telas como:
+* 	**react-navigation**
+* 	**react-navigation-drawer**
+* 	**react-navigation-stack**
+* 	**react-navigation-tabs**
 
 <h1>Observações e considerações</h1>
 
