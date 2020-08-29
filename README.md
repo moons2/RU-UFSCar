@@ -14,5 +14,5 @@
 
 <h1>Gravação do funcionamento</h1>
 
-<img alt="RU UFSCar App usage gif" align="center" src="/assets/imgs_readme/Screenrecorder_app_usage.gif" width="500px"/>
+<img alt="RU UFSCar App usage gif" align="center" src="/assets/imgs_readme/Screenrecorder_app_usage.gif" height="600px"/>
 
