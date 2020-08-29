@@ -28,18 +28,18 @@
 
 <H3>No App foram usados:</H3>
 <ul>
-	<li>**axios** para trabalhar com as requições</li>
-	<li>**lottie-react-native** para fazer a animação do carregamento enquanto o feedback é registrado</li>
-	<li>**polished** para escurecer a cor da statusbar</li>
-	<li>**react-native-vector-icons** para os ícones da aplicação</li>
-	<li>**styled-components** para a criação do modo noturno</li>
-	<li>**@react-native-community/async-storage** para a tarefa de armazenamento de dados permanentes no dispositivo</li>
-	<li>**@react-native-firebase/analytics** e **@react-native-firebase/app** para utilização dos serviços do Firebase e monitoramento do comportamento do usuário no app com analytics</li>
+	<li><bold>axios</bold> para trabalhar com as requições</li>
+	<li><bold>lottie-react-native</bold> para fazer a animação do carregamento enquanto o feedback é registrado</li>
+	<li><bold>polished</bold> para escurecer a cor da statusbar</li>
+	<li><bold>react-native-vector-icons</bold> para os ícones da aplicação</li>
+	<li><bold>styled-components</bold> para a criação do modo noturno</li>
+	<li><bold>@react-native-community/async-storage</bold> para a tarefa de armazenamento de dados permanentes no dispositivo</li>
+	<li><bold>@react-native-firebase/analytics e @react-native-firebase/app</bold> para utilização dos serviços do Firebase e monitoramento do comportamento do usuário no app com analytics</li>
 	além dos modulos que permitiram trabalhar com a navegação entre telas como:
-	<li>**react-navigation**</li>
-	<li>**react-navigation-drawer**</li>
-	<li>**react-navigation-stack**</li>
-	<li>**react-navigation-tabs**</li>
+	<li><bold>react-navigation</bold></li>
+	<li><bold>react-navigation-drawer</bold></li>
+	<li><bold>react-navigation-stack</bold></li>
+	<li><bold>react-navigation-tabs</bold></li>
 </ul>
 
 <h1>Observações e considerações</h1>
