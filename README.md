@@ -62,4 +62,6 @@ Copyright (c) 2020 Luan Moraes, O Uso deste software é atribuido sob os termos 
 
 Dúvidas, críticas e sugestões: [Entre em contato][linkedin]
 
+Esta aplicação é de iniciativa pessoal para fins de aprendizado e prática e não conta com qualquer apoio ou conhecimento da Universidade.
+
 [linkedin]: https://www.linkedin.com/in/luanmoraex/
