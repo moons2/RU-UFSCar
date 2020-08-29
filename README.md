@@ -16,7 +16,7 @@
 <h3>3.</h3>
 <p>Usuários podem reagir ao cardápio do dia apenas uma vez por dia, como medida de proteção a reação só é possivel via método http POST com chave de validação JWT.</p>
 
-<h1>Gravação do funcionamento</h1>
+<h1>Gif do funcionamento</h1>
 
 <img alt="RU UFSCar App usage gif" align="center" src="/assets/imgs_readme/Screenrecorder_app_usage.gif" height="600px"/>
 
@@ -36,7 +36,9 @@
 * 	**styled-components** para a criação do modo noturno
 * 	**@react-native-community/async-storage** para a tarefa de armazenamento de dados permanentes no dispositivo
 * 	**@react-native-firebase/analytics** e **@react-native-firebase/app** para utilização dos serviços do Firebase e monitoramento do comportamento do usuário no app com analytics
+
 além dos modulos que permitiram trabalhar com a navegação entre telas como:
+
 * 	**react-navigation**
 * 	**react-navigation-drawer**
 * 	**react-navigation-stack**
@@ -50,4 +52,14 @@ além dos modulos que permitiram trabalhar com a navegação entre telas como:
 
 <p>O App passou por duas versões, a primeira fazia uso de Class Componentes e características da versão antiga do Reactjs, a ultima e atual faz uso de Functional Componentes e Reack Hooks, além de tecnicas de gerenciamento de estados e temas.</p>
 
-<p>Ao todo o serviço completo demandou 5 meses devido a conxiliação do desenvolvimento com as tarefas da graduação e outras atividades extracurriculares. E posso considerar que o objetivo foi atingido, de adquirir experiência de desenvolvimento de um produto completo, errar e aprender com os erros para não comete-los nas proximas aplicações, ou de saber como corrigi-los!</p>
+<p>Ao todo a aplicação completa (Backend e Frontend) demandou 5 meses devido a conxiliação do desenvolvimento com as tarefas da graduação e outras atividades extracurriculares. E posso considerar que o objetivo foi atingido, de adquirir experiência de desenvolvimento de um produto completo, errar e aprender com os erros para não comete-los nas proximas aplicações, ou de saber como corrigi-los.</p>
+
+<p>Por último, há diversas coisas no app que poderiam ser feitas de forma melhor, mas que eu fiz com o conhecimento que eu tinha até o momento. Com o aperfeiçoamento espero melhorar e contruir aplicações mais </p>
+
+## :memo: Licençna
+
+Copyright (c) 2020 Luan Moraes, O Uso deste software é atribuido sob os termos e condições da licença do MIT.
+
+Dúvidas, críticas e sugestões: [Entre em contato][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/luanmoraex/
