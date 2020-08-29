@@ -48,7 +48,7 @@ além dos modulos que permitiram trabalhar com a navegação entre telas como:
 
 <p>Este foi meu primeiro aplicativo desenvolvido por completo, até então eu só tinha feito modulos separados (como forms, botões, listas).</p>
 
-<p>Esta foi uma aplicação desafiadora por demandar conhecimento Fullstack, o aprendizado de conhecimentos específicos, a busca por soluções de problemas diversos que foram surgindo durante o desenvolvimento e não tinham uma resposta direta, pelo fato de toda a ideia ser autoral sem nenhuma fonte externa para se ter uma base de inicio.</p>
+<p>Esta foi uma aplicação desafiadora por demandar conhecimento Fullstack, o aprendizado de conhecimentos específicos, a busca por soluções de problemas diversos que foram surgindo durante o desenvolvimento e não tinham uma resposta direta e pelo fato de toda a ideia ser autoral sem nenhuma fonte externa para se ter uma base de inicio.</p>
 
 <p>O App passou por duas versões, a primeira fazia uso de Class Componentes e características da versão antiga do Reactjs, a ultima e atual faz uso de Functional Componentes e Reack Hooks, além de tecnicas de gerenciamento de estados e temas.</p>
 
