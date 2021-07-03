@@ -2,10 +2,10 @@
 É um aplicativo desenvolvido em React Native para visualização do cardápio diário do restaurante universitário da Universidade Federal de São Carlos.
 
 <div align=center>
-<img align="center" alt="RU UFSCar App image mockup" src="/assets/imgs_readme/iphone7ru_app.png" width="600px"/>
+<img align="center" alt="RU UFSCar App image mockup" src="/assets/imgs_readme/iphone7ru_app.png" width="500px"/>
 </div>
 
-<h1>Como funciona?</h1>
+<h1>Como funciona</h1>
 
 <h3>1.</h3>
 <p>O aplicativo inicia carregando um script do servidor Firebase que descreve os campos que deverão ser buscados no site do cardápio da universidade, esta foi a melhor maneira encontrada de contornar os custos de um servidor (uma vez que requisições externas são cobradas após exceder a cota gratuita) e poder agir facilmente na solução de problemas como a alteração da estrutura html do site da universidade.</p>
@@ -21,6 +21,15 @@
 <div align="center">
 <img alt="RU UFSCar App usage gif" align="center" src="/assets/imgs_readme/Screenrecorder_app_usage.gif" height="400px"/>
 </div>
+
+<h1>Capturas de tela</h1>
+<p align="center">
+  <img alt="" align="top" src="/assets/imgs_readme/splashscreen.png" width="150px" />
+  <img alt="" align="top" src="/assets/imgs_readme/home.png" width="150px" />
+  <img alt="" align="top" src="/assets/imgs_readme/feed.png" width="150px" />
+  <img alt="" align="top" src="/assets/imgs_readme/info.png" width="150px" />
+  <img alt="" align="top" src="/assets/imgs_readme/config.png" width="150px" />
+</p>
   
 <h1>Ferramentas usadas no desenvolvimento</h1>
 <H3>No backend foram usados:</H3>
